@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![GitHub statistic](https://github-readme-stats.vercel.app/api?username=InnaSof&show_icons=true&theme=gruvbox&hide_title=true&card_width=500)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InnaSof&layout=compact&hide_title=true&theme=gruvbox&card_width=450)
+
 <!--
 **InnaSof/InnaSof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
